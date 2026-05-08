@@ -10,7 +10,7 @@ charset-normalizer==2.1.1
     # via requests
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.30
+gitpython==3.1.49
     # via -r requirements.in
 idna==3.4
     # via requests
@@ -22,5 +22,7 @@ semver==2.13.0
     # via -r requirements.in
 smmap==5.0.0
     # via gitdb
+typing-extensions==4.15.0
+    # via gitpython
 urllib3==1.26.12
     # via requests
